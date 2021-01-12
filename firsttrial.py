@@ -1,4 +1,4 @@
 a=20
 b=30
-c=b-a;
+c=a+b;
 print(c);
